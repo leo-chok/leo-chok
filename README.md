@@ -7,7 +7,7 @@ Web and Mobile Application Developer
 With over 10 years of experience as a 3D graphic designer and draftsman, I am currently transitioning into web and mobile application development. I have a strong background in technical design, having worked on various architectural and industrial projects, from concept to completion, including creating interactive 3D renders, virtual tours, and VR game prototypes. I am enrolled in a 10-week full stack bootcamp at La Capsule in Lille, focusing on HTML, CSS, JavaScript, and more, starting in January 2025. This intensive training will prepare me for full-stack web and mobile development, enhancing my skills in coding, teamwork, and software design. I am eager to bring my technical expertise and creative vision into my new career as a developer.
 
 * 🌍  I'm based in Lille, FRANCE
-* 🖥️  See my portfolio at [My 3D Portfolio](http://design3dleo.wixsite.com/accueil) & [Websites](https://linktr.ee/leochok)
+* 🖥️  See [my website](https://www.leochok.fr) & [links](https://linktr.ee/leochok)
 * ✉️  You can contact me at [stalh.leo@gmail.com](mailto:stalh.leo@gmail.com)
 * 🧠  I'm learning HTML, CSS, Javascript, React.js
 * ⚡  I love videogames
